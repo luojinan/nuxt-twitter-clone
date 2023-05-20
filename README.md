@@ -12,6 +12,10 @@ cd nuxt-teitter-clone
 pnpm i
 ```
 
+```bash
+git config --local user.email "1017386624@qq.com"
+```
+
 ![](https://kingan-md-img.oss-cn-guangzhou.aliyuncs.com/blog/20230520161043.png)
 
 🤔 `.npmrc` 用于 `pnpm环境`，是做什么的？
